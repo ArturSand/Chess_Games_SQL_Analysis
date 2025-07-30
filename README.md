@@ -1,9 +1,9 @@
 # Chess_Games_SQL_Analysis
-This analysis shows what kind of data I could find regarding this chess dataset.
+This analysis reveals the types of data available for the chess dataset.
 Data sourced from (https://[kajodataavenanalytics.io/data-playground](https://kajodata.mailingr.co/dashboard/products/prod_ORUMgGefoYHZVf?tab=resources&resource=a5e217e5-2aee-46c3-9a2e-0937057633e6)) 
 The dataset contains data for 20,000+ chess games played on Lichess.
 
-My SQL queries for player and game analysis: Key insights revealed:
+Key Insights & Findings:
 
 1. Total number of players:
    15,635
