@@ -5,15 +5,19 @@ The dataset contains data for 20,000+ chess games played on Lichess.
 
 My SQL queries for player and game analysis: Key insights revealed:
 
-1.  a) Percentage of Games won by White -> 49.86%
+1. Total number of players:
+   15,635
+
+3.  a) Percentage of Games won by White -> 49.86%
     b) By Black -> 45.40%
     c) Games Drawn -> 4.74%
 
-2. Most common openings -> The 3 most frequent openings used by Black AND White:
 
-    a) Sicilian Defense
-    b) French Defense
+4. Most common openings -> The 3 most frequent openings used by Black AND White:
+
+    a) Sicilian Defence
+    b) French Defence
     c) Queen's Pawn Game
 
-3. Who won the most games?
+5. Who won the most games?
    id: taranga - Won 72/154 of his games
