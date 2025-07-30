@@ -8,9 +8,12 @@ My SQL queries for player and game analysis: Key insights revealed:
 1. Total number of players:
    15,635
 
-3.  a) Percentage of Games won by White -> 49.86%
-    b) By Black -> 45.40%
-    c) Games Drawn -> 4.74%
+2. Player who won the most games:
+id: Taranga 72/154, where 50% of his won games were played with higher-ranked players. 
+
+3. I determined that the most frequently first move in a won game was:
+      a) by black was e4 (5,651 times)
+      b) by white was e4 (6,371 times)
 
 
 4. Most common openings -> The 3 most frequent openings used by Black AND White:
@@ -18,6 +21,14 @@ My SQL queries for player and game analysis: Key insights revealed:
     a) Sicilian Defence
     b) French Defence
     c) Queen's Pawn Game
+  
+5.  Percentage of Games Won:
+    a) by White -> 49.86%
+    b) By Black -> 45.40%
+    c) Games Drawn -> 4.74%
 
-5. Who won the most games?
-   id: taranga - Won 72/154 of his games
+
+6. What percentage of games does the higher-ranked player won as White, and when playing as Black?
+
+   a) games won by white 6,529 with ratio 32,6%
+   b) games won by black 5,823 with ratio 29,0%
