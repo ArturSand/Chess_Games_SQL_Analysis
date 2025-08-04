@@ -9,26 +9,26 @@ Key Insights & Findings:
 <br/> 15,635
 
 2. Player who won the most games:
-id: Taranga 72/154, where 50% of his won games were played with higher-ranked players. 
+<br/> id: Taranga 72/154, where 50% of his won games were played with higher-ranked players. 
 
 3. I determined that the most frequently first move in a won game was:
-      a) by black was e4 (5,651 times)
-      b) by white was e4 (6,371 times)
+   <br/> a) by black was e4 (5,651 times)
+   <br/> b) by white was e4 (6,371 times)
 
 
 4. Most common openings -> The 3 most frequent openings used by Black AND White:
 
-    a) Sicilian Defence
-    b) French Defence
-    c) Queen's Pawn Game
+   <br/>  a) Sicilian Defence
+   <br/>  b) French Defence
+   <br/>  c) Queen's Pawn Game
   
 5.  Percentage of Games Won:
-    a) by White -> 49.86%
-    b) By Black -> 45.40%
-    c) Games Drawn -> 4.74%
+<br/>  a) by White -> 49.86%
+<br/>  b) By Black -> 45.40%
+<br/>  c) Games Drawn -> 4.74%
 
 
 6. What percentage of games does the higher-ranked player won as White, and when playing as Black?
 
-   a) games won by white 6,529 with ratio 32,6%
-   b) games won by black 5,823 with ratio 29,0%
+<br/>  a) games won by white 6,529 with ratio 32,6%
+<br/>  b) games won by black 5,823 with ratio 29,0%
