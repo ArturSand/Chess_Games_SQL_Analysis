@@ -6,7 +6,7 @@ The dataset contains data for 20,000+ chess games played on Lichess.
 Key Insights & Findings:
 
 1. Total number of players:
-   15,635
+< br / >  15,635
 
 2. Player who won the most games:
 id: Taranga 72/154, where 50% of his won games were played with higher-ranked players. 
