@@ -24,13 +24,19 @@ Key Insights & Findings:
    <br/>  b) French Defence
    <br/>  c) Queen's Pawn Game
   
-5.  Percentage of Games Won:
+5. Overall game win percentages::
 <br/>  a) by White -> 49.86%
 <br/>  b) By Black -> 45.40%
 <br/>  c) Games Drawn -> 4.74%
 
 
 6. What percentage of games does the higher-ranked player won as White, and when playing as Black?
+<br/>  Percentage of games won by the higher-ranked player (by color):
 
-<br/>  a) games won by white 6,529 with ratio 32,6%
-<br/>  b) games won by black 5,823 with ratio 29,0%
+<br/>  a) White wins (higher-ranked player): 6,529 games (32.6%) 
+<br/>  b)Black wins (higher-ranked player): 5,823 games (29.0%)
+
+
+<br/> SUMMARY
+This analysis offers a data-driven perspective on classic chess questions by using SQL to uncover key insights. The findings highlight White's first-move advantage, the performance of higher-ranked players, and the most common winning strategies.
+
