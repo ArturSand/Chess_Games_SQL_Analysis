@@ -1,4 +1,6 @@
 # Chess_Games_SQL_Analysis
+<img width="817" height="457" alt="image" src="https://github.com/user-attachments/assets/d6b8f36d-b848-487b-b1a4-a2e697fecc60" />
+
 This analysis reveals the types of data available for the chess dataset.
 Data sourced from (https://[kajodataavenanalytics.io/data-playground](https://kajodata.mailingr.co/dashboard/products/prod_ORUMgGefoYHZVf?tab=resources&resource=a5e217e5-2aee-46c3-9a2e-0937057633e6)) 
 The dataset contains data for 20,000+ chess games played on Lichess.
